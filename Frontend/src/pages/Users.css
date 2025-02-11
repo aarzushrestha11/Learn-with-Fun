@@ -1,0 +1,24 @@
+/* Users.css */
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+#image4 {
+  background-image: url('6.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.bg-green-700 {
+  background-color: #047857;
+}
+
+.bg-red-500 {
+  background-color: #ef4444;
+}
+
+.bg-blue-500 {
+  background-color: #3b82f6;
+}
